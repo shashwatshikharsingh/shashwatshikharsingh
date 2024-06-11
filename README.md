@@ -12,10 +12,10 @@
 - 📄 My Resume [https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing](https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing)
 
 <h3 align="center">Some of My Projects</h3>
-<p align="left">QUIL & COIN: PAYMENT AND REGISTRATION GATEWAY > [Quil and Coin Website](https://www.quilandcoin.xyz/) </p>
-<p align="left">DECRYPTERS: STOCK PREDICTING APPLICATION > [Decrypters Website](https://decrypters-blush.vercel.app/) </p>
-<p align="left">MEDICINAL PLANT DETECTION > [Plant Identifier Website](https://plant-indentifier.onrender.com/) </p>
-<p align="left">BLAZECOOK APP : ANDROID APP FOR RECIPES USING INGREDIENTS > [Github](https://github.com/shashwatshikharsingh/blazecook) </p>
+- QUIL & COIN: PAYMENT AND REGISTRATION GATEWAY > [Quil and Coin Website](https://www.quilandcoin.xyz/)
+- DECRYPTERS: STOCK PREDICTING APPLICATION > [Decrypters Website](https://decrypters-blush.vercel.app/)
+- MEDICINAL PLANT DETECTION > [Plant Identifier Website](https://plant-indentifier.onrender.com/) 
+- BLAZECOOK APP : ANDROID APP FOR RECIPES USING INGREDIENTS > [Github](https://github.com/shashwatshikharsingh/blazecook)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
