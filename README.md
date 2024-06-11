@@ -25,7 +25,7 @@ Medicinal Plant Detection Web Application > <a href="https://plant-indentifier.o
 Solace Studio Bennett University Website > <a href="http://solacestudio.online/about" target="blank"><span>Solace Studio Website</span></a>
 </p>
 <p align="left">
-Blazecook App : Android App for Recipess using Ingredients > <a href="https://github.com/shashwatshikharsingh/blazecook" target="blank"><span>Github</span></a>
+Blazecook App : Android App for Recipes using Ingredients > <a href="https://github.com/shashwatshikharsingh/blazecook" target="blank"><span>Github</span></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
