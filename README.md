@@ -12,10 +12,20 @@
 - 📄 My Resume [https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing](https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing)
 
 <h3 align="center">Some of My Projects</h3>
-- QUIL & COIN: PAYMENT AND REGISTRATION GATEWAY > [Quil and Coin Website](https://www.quilandcoin.xyz/)
-- DECRYPTERS: STOCK PREDICTING APPLICATION > [Decrypters Website](https://decrypters-blush.vercel.app/)
-- MEDICINAL PLANT DETECTION > [Plant Identifier Website](https://plant-indentifier.onrender.com/) 
-- BLAZECOOK APP : ANDROID APP FOR RECIPES USING INGREDIENTS > [Github](https://github.com/shashwatshikharsingh/blazecook)
+<p align="left">
+QUIL & COIN: PAYMENT AND REGISTRATION GATEWAY > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
+</p>
+<p align="left">
+DECRYPTERS: STOCK PREDICTING APPLICATION > <a href="https://decrypters-blush.vercel.app/" target="blank"><span>Decrypters Website</span></a>
+</p>
+<p align="left">
+MEDICINAL PLANT DETECTION > <a href="https://plant-indentifier.onrender.com/" target="blank"><span>Plant Identifier Website</span></a>
+</p>
+<p align="left">
+BLAZECOOK APP : ANDROID APP FOR RECIPES USING INGREDIENTS > <a href="https://github.com/shashwatshikharsingh/blazecook" target="blank"><span>Github</span></a>
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
