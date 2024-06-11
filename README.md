@@ -13,19 +13,20 @@
 
 <h3 align="center">Some of My Projects</h3>
 <p align="left">
-QUIL & COIN: PAYMENT AND REGISTRATION GATEWAY > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
+Quil & Coin: Payment and Registration Gateway > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
 </p>
 <p align="left">
-DECRYPTERS: STOCK PREDICTING APPLICATION > <a href="https://decrypters-blush.vercel.app/" target="blank"><span>Decrypters Website</span></a>
+Decrypters: AI Asisted Stock Portfolio Management > <a href="https://decrypters-blush.vercel.app/" target="blank"><span>Decrypters Website</span></a>
 </p>
 <p align="left">
-MEDICINAL PLANT DETECTION > <a href="https://plant-indentifier.onrender.com/" target="blank"><span>Plant Identifier Website</span></a>
+Medicinal Plant Detection Web Application > <a href="https://plant-indentifier.onrender.com/" target="blank"><span>Plant Identifier Website</span></a>
 </p>
 <p align="left">
-BLAZECOOK APP : ANDROID APP FOR RECIPES USING INGREDIENTS > <a href="https://github.com/shashwatshikharsingh/blazecook" target="blank"><span>Github</span></a>
+Solace Studio Bennett University Website > <a href="http://solacestudio.online/about" target="blank"><span>Solace Studio Website</span></a>
 </p>
-
-
+<p align="left">
+Blazecook App : Android App for Recipess using Ingredients > <a href="https://github.com/shashwatshikharsingh/blazecook" target="blank"><span>Github</span></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
