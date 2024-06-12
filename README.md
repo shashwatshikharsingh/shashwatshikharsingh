@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **shashwatshikharsingh@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing](https://drive.google.com/file/d/1Qb0Mw3uAAbbuqT-xPb_sc6Jxcr75upGj/view?usp=sharing)
-
 <h3 align="center">Some of My Projects</h3>
 <p align="left">
 Quil & Coin: Payment and Registration Gateway > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
