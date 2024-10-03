@@ -11,6 +11,9 @@
 
 <h3 align="center">Some of My Projects</h3>
 <p align="left">
+Scholar Research Overview > <a href="ttps://sih-scholar.vercel.app/" target="blank"><span>Website</span></a>
+</p>
+<p align="left">
 Quil & Coin: Payment and Registration Gateway > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
 </p>
 <p align="left">
