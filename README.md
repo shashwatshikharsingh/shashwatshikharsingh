@@ -11,7 +11,7 @@
 
 <h3 align="center">Some of My Projects</h3>
 <p align="left">
-Scholar Research Overview > <a href="ttps://sih-scholar.vercel.app/" target="blank"><span>Website</span></a>
+Scholar Research Overview > <a href="https://sih-scholar.vercel.app/" target="blank"><span>Website</span></a>
 </p>
 <p align="left">
 Quil & Coin: Payment and Registration Gateway > <a href="https://www.quilandcoin.xyz/" target="blank"><span>Quil and Coin Website</span></a>
@@ -39,4 +39,4 @@ Blazecook App : Android App for Recipes using Ingredients > <a href="https://git
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatshikharsingh&show_icons=true&locale=en&layout=compact" alt="shashwatshikharsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatshikharsingh&" alt="shashwatshikharsingh" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=shashwatshikharsingh&theme=dark)](https://git.io/streak-stats)
