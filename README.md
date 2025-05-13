@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Shikhar Singh</h1>
-<h3 align="center">I am a B.Tech Student @ Bennett University ( The Times Group)</h3>
 
-- 🔭 I’m currently working on [Quil and Coin - A Payment and Registration Gateway for College Clubs](https://www.quilandcoin.xyz/)
+- 🔭 I’m currently working on [NexaJobs- AI-Powered Job Application Assistant](https://www.nexajobs.tech/)
 
 - 🌱 I’m currently learning **LLM's and RAG**
 
